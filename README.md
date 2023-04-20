@@ -1,4 +1,4 @@
-# Medieval Manuscript Leaves
+# Medieval Manuscripts and Incunabula Collection
 
 ## Description
 This collection consists of European manuscript leaves spanning the 12th - 17th centuries.
@@ -7,7 +7,7 @@ Permanent address to digital collection: [https://doi.org/10.25810/06t9-nh03](ht
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
-Name of the collection: Medieval Manuscript Leaves 
+Name of the collection: Medieval Manuscripts and Incunabula Collection 
 
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
